@@ -1,0 +1,9 @@
+[
+    {"product": "Cookies", "price": 34, "rating": 3},
+    {"product": "Jam", "price": 200, "rating": 5},
+    {"product": "Sugar", "price": 45, "rating": 2},
+    {"product": "Cheese", "price": 222, "rating":5},
+    {"product": "Fish", "price": 222, "rating":5},
+    {"product": "Whiskey", "price": 300, "rating":6},
+    {"product": "Cognac", "price":250, "rating":7}
+]
